@@ -17,7 +17,7 @@ This simple e-commerce prototype shows how React with Typescript, React hooks, r
 - Responsive design
 
 
-[Live Demo](https://notjustanotherbootcampgraduate.github.io/simple-react-e-commerce-app/)
+[Live Demo](https://notjustanotherbootcampgraduate.github.io/simple-react-e-commerce-app)
 
 
 ## Build/Run
